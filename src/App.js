@@ -6,7 +6,7 @@ import Todo from './components/Todo';
 function App() {
   return (
     <div>
-      <h1>ToDo list</h1>
+      <h1 className='header'>ToDo list</h1>
       <Todo />
     </div>
   )
